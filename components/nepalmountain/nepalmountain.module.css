@@ -1,0 +1,42 @@
+.mountain {
+    padding-left: 60px;
+    height:100vh;
+    width: 100%;
+   
+}
+
+.mountain h1{
+    
+font-family: Bebas Kai;
+font-style: normal;
+font-weight: normal;
+font-size: 65px;
+line-height: 78px;
+/* identical to box height */
+
+
+/* Primary Color */
+
+color: #EDEDF5;
+
+
+    
+}
+
+.mountain p {
+    
+    font-family: Avenir LT Std;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    
+    
+}
+
+.pp{
+    position: relative;
+    transition:3s;
+    opacity: 0;
+    top: 200px;
+
+}

@@ -1,0 +1,82 @@
+.navbar{
+    width: 100%;
+    height: 80px;
+    position:fixed;
+    z-index: 20;
+    display: flex;
+    justify-content:space-between;
+    background-color: rgba(0, 0, 0, 0);
+    transition: 1s;
+    opacity: 0;
+}
+
+.navbarkiri {
+    width:30%;
+    height:80px;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.navbarlogo a{
+    line-height:80px;
+    margin-left: 60px;
+}
+
+.navbarlink a {
+    display: inline-block;
+    text-decoration: none;
+    line-height:80px;
+    font-family: Avenir LT Std;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    
+    
+    /* Primary Color */
+    
+    color: #EDEDF5;
+    
+
+}
+
+.navbarlink .linksatu{
+ color: #fff;
+ margin-left:40px;
+ margin-right:40px;
+}
+
+.navbarlink .linkdua {
+    color: #fff;
+}
+
+.navbartengah{
+    width:30%;
+    height: 80px;
+    background-color: transparent;
+    display: flex;
+    justify-content:center;
+    
+}
+
+.simbol{
+    line-height:80px;
+    
+}
+
+
+.navbarkanan {
+    width:30%;
+    height: 80px;
+    background-color: transparent
+}
+
+.linktiga {
+    line-height:80px;
+}
+
+.linktiga a {
+    display: inline-block;
+    margin-left:30px;
+    width:16px;
+    height:16px;
+}
